@@ -119,7 +119,7 @@ namespace Colecciones
             miBiblioteca.agregarLibro("Estructuras de Datos", "Autor C", "Editorial Z");
             miBiblioteca.agregarLibro("UML avanzado", "Autor D", "Editorial W");
 
-            miBiblioteca.altaLector("Fernando Vergara", "12345678");
+            miBiblioteca.altaLector("Pepe Grillo", "12345678");
 
             Console.WriteLine("=== PRUEBAS DE REQUERIMIENTOS ===\n");
 
