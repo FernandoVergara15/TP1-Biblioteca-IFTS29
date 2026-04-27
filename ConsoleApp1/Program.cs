@@ -101,7 +101,7 @@ namespace Colecciones
 
     // ============================================================
     // CLASE TEST: Donde el programa arranca.
-    // Contiene el método Main que orquestará las pruebas para el video.
+    // Contiene el método Main que orquestará las pruebas como si fuera usuario final.
     // ============================================================
     internal class Test
     {
